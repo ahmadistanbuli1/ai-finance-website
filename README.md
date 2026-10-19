@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 ### 1. Clone the repository
 
 \`\`\`bash
-git clone https://github.com/ahmadistanbuli179/ai-finance-dashboard.git
+git clone https://github.com/ahmadistanbuli1/ai-finance-dashboard.git
 cd ai-finance-dashboard
 \`\`\`
 
